@@ -1,3 +1,3 @@
 # my-first-html-code
 - this is my first HTML code while learning the tags in HTML
-- you can check it out here - [MY FIRST HTML CODE⭐]()
+- you can check it out here - [MY FIRST HTML CODE⭐](https://javaharreddy.github.io/my-first-html-code/)
